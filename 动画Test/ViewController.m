@@ -25,6 +25,8 @@
     [self.view.layer addSublayer:emitter];
     emitter.renderMode = kCAEmitterLayerUnordered;
     emitter.emitterPosition = CGPointMake(emitter.frame.size.width / 3.0, -75);
+    
+    
 }
 
 - (IBAction)start:(id)sender {
