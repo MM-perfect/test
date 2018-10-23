@@ -15,6 +15,7 @@
 		BC79B69921100EA7002458A3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BC79B69821100EA7002458A3 /* main.m */; };
 		BC79B6A021103C9A002458A3 /* 雪花.png in Resources */ = {isa = PBXBuildFile; fileRef = BC79B69F21103C99002458A3 /* 雪花.png */; };
 		BC79B6A4211040A9002458A3 /* 背景.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC79B6A3211040A9002458A3 /* 背景.jpg */; };
+		BCC0A7E2217F030C002CC93F /* xuehua.gif in Resources */ = {isa = PBXBuildFile; fileRef = BCC0A7E1217F030C002CC93F /* xuehua.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		BC79B69821100EA7002458A3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BC79B69F21103C99002458A3 /* 雪花.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雪花.png"; sourceTree = "<group>"; };
 		BC79B6A3211040A9002458A3 /* 背景.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景.jpg"; sourceTree = "<group>"; };
+		BCC0A7E1217F030C002CC93F /* xuehua.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = xuehua.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		BC79B68821100EA7002458A3 /* 动画Test */ = {
 			isa = PBXGroup;
 			children = (
+				BCC0A7E1217F030C002CC93F /* xuehua.gif */,
 				BC79B6A3211040A9002458A3 /* 背景.jpg */,
 				BC79B69F21103C99002458A3 /* 雪花.png */,
 				BC79B68921100EA7002458A3 /* AppDelegate.h */,
@@ -135,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCC0A7E2217F030C002CC93F /* xuehua.gif in Resources */,
 				BC79B6A4211040A9002458A3 /* 背景.jpg in Resources */,
 				BC79B6A021103C9A002458A3 /* 雪花.png in Resources */,
 				BC79B69621100EA7002458A3 /* LaunchScreen.storyboard in Resources */,
